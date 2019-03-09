@@ -1,7 +1,7 @@
 -- mods/default/mapgen.lua
 
 fracturerift = {} --Global container for variables accessed by other mods
-
+function nodeupdate() end
 ---
 --- constants
 ---
